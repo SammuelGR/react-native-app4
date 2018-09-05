@@ -5,6 +5,4 @@ Um app para aprender a consumir uma API REST utilizando o Axios.
 
 Cada campo da lista foi preenchido requisitando o respectivo dado em JSON.
 
->Para baixar o apk procure a opção de download no meu [site](https://sammuelgr.github.io/home#apps).
-
->Mais detalhes do app [aqui](https://sammuelgr.github.io/apps#app4).
+>Para baixar o apk procure a opção de download no meu [site](https://sammuelgr.github.io/home#apps) ou diretamente na [release](https://github.com/SammuelGR/react-native-app4/releases).
