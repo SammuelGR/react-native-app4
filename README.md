@@ -22,9 +22,9 @@ Um simples app para aprender a consumir uma API REST. O app monta dinamicamente 
 
 ## Download
 
-> Basta acessar a página de [release](https://github.com/sammuelgr/react-native-app4/releases) e procurar pelo apk.
+Basta acessar a página de [release](https://github.com/sammuelgr/react-native-app4/releases) e procurar pelo apk.
 
-> No momento, não possui ipa.
+No momento, não possui ipa.
 
 
 ## Instalação
